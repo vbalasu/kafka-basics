@@ -1,4 +1,4 @@
-# kafka
+# kafka-basics
 
 Simple scripts in Python and Bash to work with Kafka
 
